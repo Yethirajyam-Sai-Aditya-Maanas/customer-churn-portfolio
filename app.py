@@ -153,13 +153,13 @@ if df_full is not None:
 
       # --- Power BI Dashboard ---
     elif page == "Power BI Dashboard": 
-    st.title("Power BI Customer Churn Dashboard")
-    st.write("""
-    This interactive dashboard was built in Power BI to analyze the key drivers of customer churn. 
-    The recording below demonstrates its functionality, including slicers and cross-filtering.
-    """)
+        st.title("Power BI Customer Churn Dashboard")
+        st.write("""
+        This interactive dashboard was built in Power BI to analyze the key drivers of customer churn. 
+        The recording below demonstrates its functionality, including slicers and cross-filtering.
+        """)
 
-    # Remember to replace this with your actual GIF URL from GitHub
-    gif_url = "https://github.com/Yethirajyam-Sai-Aditya-Maanas/customer-churn-portfolio/blob/main/powerbi-demo.gif?raw=true"
+   
+        gif_url = "https://github.com/Yethirajyam-Sai-Aditya-Maanas/customer-churn-portfolio/blob/main/powerbi-demo.gif?raw=true"
     
-    st.image(gif_url)
+        st.image(gif_url)
