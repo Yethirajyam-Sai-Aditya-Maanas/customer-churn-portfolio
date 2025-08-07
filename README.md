@@ -52,7 +52,7 @@ To run this application locally, please follow these steps:
 1.  **Clone the repository:**
     ```sh
     git clone [https://github.com/Yethirajyam-Sai-Aditya-Maanas/customer-churn-portfolio.git](https://github.com/Yethirajyam-Sai-Aditya-Maanas/customer-churn-portfolio.git)
-    cd your-repo-name
+    cd customer-churn-portfolio
     ```
 
 2.  **Install the required libraries:**
