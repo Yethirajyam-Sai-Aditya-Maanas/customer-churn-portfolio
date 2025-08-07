@@ -7,7 +7,7 @@ An end-to-end data analytics project that uses a machine learning model to predi
 ## 🚀 Live Application
 
 **You can access the live, deployed Streamlit application here:** [https://customer-churn-portfolio-hcgvkpygmkmyi8t4n8v5wm.streamlit.app/](https://customer-churn-portfolio-hcgvkpygmkmyi8t4n8v5wm.streamlit.app/)
-*(Remember to replace this with your actual app URL)*
+
 
 ---
 
@@ -30,7 +30,7 @@ This application is a multi-page tool that provides a comprehensive analysis:
 * **Power BI Dashboard:** A demonstration of a business intelligence dashboard built in Power BI to provide a high-level overview of churn drivers and key performance indicators (KPIs).
 
 ![Power BI Dashboard Demo](https://github.com/Yethirajyam-Sai-Aditya-Maanas/customer-churn-portfolio/blob/main/powerbi-demo.gif?raw=true)
-*(Remember to replace this with the actual URL to your GIF)*
+
 
 ---
 
